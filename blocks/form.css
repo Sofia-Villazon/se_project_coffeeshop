@@ -44,18 +44,18 @@
   font-weight: 500;
   border: none;
   transition: background-color 1s linear;
-  transition: opacity 1s linear;
+
   opacity: 100%;
 }
 
 .form__button:hover {
   background-color: #3f96f3;
-  opacity: 70%;
+
   cursor: pointer;
 }
 
 .form__checkbox {
-  border-radius: 2px;
+  border-radius: 4px;
   width: 20px;
   height: 20px;
 }
